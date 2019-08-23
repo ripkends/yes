@@ -85,7 +85,9 @@
 <br>
 </td></tr></tbody></table>
 
-<right><div class style="width:500px; height:350px; border:1px solid black; font-size:14px; font-family: courier; background-color: white; font-color: black; text-align: left; overflow:auto;">
+<!––Positioning is relative to it's actual position was 20 pixels under the first box. if you want to space this out more, change "left: 510px" to the distance from the first box PLUS 500.––>
+
+<right><div class style="width:500px; height:350px; border:1px solid black; font-size:14px; font-family: courier; background-color: white; font-color: black; text-align: left; overflow:auto; position: relative; left: 510px; bottom: 370;">
 <center><h1> Songs I Normally Bump </h1>
 <ol><center>
 	  <li style="list-style-type: none;">
